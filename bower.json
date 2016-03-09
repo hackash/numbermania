@@ -1,0 +1,34 @@
+{
+  "name": "numbermania",
+  "version": "1.0.0",
+  "authors": [
+    "Ashot <ashot.todo@gmail.com>"
+  ],
+  "description": "number mania game",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "game",
+    "number mania",
+    "angular",
+    "game",
+    "nodejs",
+    "game"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "appPath": "app",
+  "dependencies": {
+    "angular": "~1.4.4",
+    "angular-route": "~1.4.7",
+    "lodash": "~3.10.1"
+  }
+}
